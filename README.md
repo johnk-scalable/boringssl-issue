@@ -1,4 +1,5 @@
-# Repo showing segfault using boringssl > 2.0.56.Final with SpringBoot running on azul/zulu-openjdk-alpine:17-jre
+# Repo showing boringssl-issue
+Segfault is thrown when using boringssl > 2.0.56.Final with SpringBoot 2.7.13 running on azul/zulu-openjdk-alpine:17-jre
 
 ## Reproduction
 
