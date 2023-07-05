@@ -2,9 +2,11 @@
 
 ## Reproduction
 
+```
 mvn clean install
 docker build . -t demo
 docker run demo
+```
 
 ## Result
 ```
